@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Pavel 👋
 
-<!--
-**kotlyarov-qa/kotlyarov-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 QA Automation (Python)
 
-Here are some ideas to get you started:
+Focused on backend test automation, API/microservices integration testing, and distributed architecture quality assurance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Core Tech Stack & Tools
+
+- **Languages & Frameworks:** Python, Pytest, Playwright, Requests
+- **Backend & Data:** REST API, Apache Kafka, PostgreSQL, SQLAlchemy
+- **CI/CD & DevOps:** Docker, Git, CI/CD pipelines
+- **Quality & Process:** Test Design, Root Cause Analysis, Postman, DevTools
+
+---
+
+### 📌 Current Focus & Engineering Philosophy
+
+- 🏗️ Building resilient and scalable automated testing frameworks from scratch.
+- ⚡ Shifting QA left: catching architectural bugs and boundary issues early in the lifecycle.
+- 🔒 Most of my recent daily work resides in private corporate repositories (SaaS / B2B platforms).
+
+---
+
+### 📬 Connect with me
+
+- **Telegram:** @pavel_kotlyarov_it
+- **Email:** pavel.kotlyarov.it@gmail.com
